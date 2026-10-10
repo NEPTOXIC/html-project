@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Digital Training Academy</title>
+	<link rel="stylesheet" href="./styles2.css">
+</head>
+<body>
+	<header class="site-header">
+		<a class="brand" href="#top"><span class="brand-mark" aria-hidden="true">DTA</span><span>Digital Training<br>Academy</span></a>
+		<nav aria-label="Main navigation">
+			<a href="#top">Home</a><a href="#impact">About</a><a href="#steps">Careers</a><a href="#apply">How to apply</a><a href="#faq">FAQ</a><a href="#footer">User Guide</a>
+		</nav>
+		<a class="login" href="#apply">Login</a>
+	</header>
+
+	<main id="top">
+		<section class="hero" aria-label="DTA program highlights">
+			<div class="hero-slide slide-one">
+				<div class="hero-copy"><span class="eyebrow">Unlock Skills. Transform Your Future.</span><h1>A Government-Backed Program to <span>Learn World-Class Skills</span></h1><p>Gain in-demand digital and professional skills at no cost through the Digital Training Academy, fully sponsored by the Federal Government of Nigeria.</p><a class="button" href="#apply">Start learning</a></div>
+				<div class="hero-art"><img src="https://www.dta.education.gov.ng/slides/slide-1.png" alt="Smiling man wearing glasses holds an open laptop in front of a bright green patterned backdrop, creating an upbeat and welcoming learning atmosphere"></div>
+			</div>
+			<div class="hero-slide slide-two">
+				<div class="hero-copy"><span class="eyebrow">Why Choose DTA?</span><h1>Learn Skills That <span>Move You Forward</span></h1><p>At Digital Training Academy, we are committed to empowering individuals with the skills they need to thrive in today’s digital economy.</p><a class="button" href="#skills">Explore skills</a></div>
+				<div class="hero-art"><img src="https://www.dta.education.gov.ng/slides/slide-2.png" alt="Digital learning community"></div>
+			</div>
+			<div class="slide-dots" aria-hidden="true"><i></i><i></i></div>
+		</section>
+
+		<section class="impact-intro" id="impact">
+			<div class="section-title"><span class="eyebrow">Impact</span><h2><strong>32,000</strong> Nigerians to Be Empowered with Free World-Class Training</h2></div>
+			<div class="story-grid">
+				<p>The Federal Government of Nigeria, in partnership with Coursera, is offering 32,000 free learning licenses to empower citizens with in-demand digital and professional skills.</p>
+				<img src="https://www.dta.education.gov.ng/body-pix/training-1.png" alt="A group learning around a laptop">
+				<img src="../images/training-2.png" alt="A learner practicing on a laptop">
+				<p>This initiative is part of the National Skilling Project, designed to bridge the skills gap, improve employability, and open new opportunities for Nigerians in today’s competitive job market.</p>
+			</div>
+		</section>
+
+		<section class="skills" id="skills">
+			<div class="center-heading"><span class="eyebrow">Available Skills</span><h2>Skills you can learn on <strong>DTA Program</strong></h2><p>Choose from a wide range of high-demand skills, fully funded by the Federal Government, and learn from top global experts via Coursera and Pluralsight.</p></div>
+			<div class="skill-grid">
+				<article><img src="../images/Digital Training Academy_files/software.png" alt=""><h3>Product Management</h3><p>Learn to build and manage software products using Agile and modern best practices.</p></article>
+				<article><img src="../images/Digital Training Academy_files/cloud.png" alt=""><h3>Cloud Computing</h3><p>Learn to deploy, manage, and scale applications using modern cloud tools.</p></article>
+				<article><img src="../images/Digital Training Academy_files/proactive.png" alt=""><h3>CyberSecurity</h3><p>Learn to protect systems and data through secure coding and incident response.</p></article>
+				<article><img src="../images/Digital Training Academy_files/it.png" alt=""><h3>IT Automation</h3><p>Learn to streamline processes using DevOps, automation, and Infrastructure as Code.</p></article>
+				<article><img src="../images/Digital Training Academy_files/ai.png" alt=""><h3>AI &amp; Machine Learning</h3><p>Learn to build intelligent systems that solve real-world problems.</p></article>
+				<article><img src="../images/Digital Training Academy_files/connected.png" alt=""><h3>Agentic AI</h3><p>Learn to build intelligent agents with practical machine learning skills.</p></article>
+				<article><img src="../images/Digital Training Academy_files/fintech.png" alt=""><h3>FinTech</h3><p>Learn digital payments, blockchain, AI-driven services, and financial regulations.</p></article>
+				<article><img src="../images/Digital Training Academy_files/parallel.png" alt=""><h3>Parallel Computing</h3><p>Learn to optimize complex tasks using distributed systems and parallel programming.</p></article>
+				<article><img src="../images/Digital Training Academy_files/quantum.png" alt=""><h3>Quantum Computing</h3><p>Explore quantum algorithms, quantum mechanics, and cryptography fundamentals.</p></article>
+				<article class="wide"><img src="../images/Digital Training Academy_files/naturallang.png" alt=""><h3>Natural Language Processing (NLP)</h3><p>Learn to develop applications that understand and process human language.</p></article>
+			</div>
+			<div class="partners"><span>Exclusive courses on</span><img src="../images/Digital Training Academy_files/coursera-logo.png" alt="Coursera"><img src="../images/Digital Training Academy_files/plurasight-logo.png" alt="Pluralsight"></div>
+		</section>
+
+		<section class="impact-panel">
+			<div><span class="eyebrow">Impact</span><h2>How the <strong>Digital Training Academy</strong> is Changing Lives Nationwide</h2><p>Empowering Nigerians with free, high-demand digital and professional skills, backed by the Federal Government and delivered by top global experts.</p></div>
+			<div class="stats"><b>32,000 <small>LEARNERS TO BE ENROLLED</small></b><b>32,000 <small>CERTIFICATES TO BE AWARDED</small></b><b>10+ <small>SKILL AREAS</small></b><b>37 <small>STATES</small></b></div>
+		</section>
+
+		<section class="steps" id="steps"><div class="center-heading"><span class="eyebrow">How to register</span><h2>How to <strong>secure your spot</strong> on DTA</h2><p>Follow these simple steps to join the Digital Training Academy and start learning for free.</p></div><div class="step-grid"><article><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%23eaf7ee'/%3E%3Ctext x='50%25' y='58%25' text-anchor='middle' font-size='26' font-family='Arial, sans-serif' font-weight='800' fill='%230d5f3d'%3E1%3C/text%3E%3C/svg%3E" alt="Step 1"><h3>Create an Account</h3><p>Sign up using your National Identity Number (NIN) and phone number to get started.</p></article><article><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%23eef7ff'/%3E%3Ctext x='50%25' y='58%25' text-anchor='middle' font-size='26' font-family='Arial, sans-serif' font-weight='800' fill='%230d5f3d'%3E2%3C/text%3E%3C/svg%3E" alt="Step 2"><h3>Complete Your Profile</h3><p>Share your background, interests, and career goals to get tailored learning paths.</p></article><article><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%23fff6e4'/%3E%3Ctext x='50%25' y='58%25' text-anchor='middle' font-size='26' font-family='Arial, sans-serif' font-weight='800' fill='%230d5f3d'%3E3%3C/text%3E%3C/svg%3E" alt="Step 3"><h3>Take Pre-Assessment</h3><p>Test your current skills so we can place you at the right learning level.</p></article><article><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%23fff0f4'/%3E%3Ctext x='50%25' y='58%25' text-anchor='middle' font-size='26' font-family='Arial, sans-serif' font-weight='800' fill='%230d5f3d'%3E4%3C/text%3E%3C/svg%3E" alt="Step 4"><h3>Start Learning After Assessment Result</h3><p>Begin your free training journey with curated courses and expert guidance.</p></article></div></section>
+
+		<section class="stories" id="faq"><div class="center-heading"><h2>Real Stories. Creating <strong>Real Impact</strong></h2></div><marquee class="story-marquee" direction="left" scrollamount="16"><div class="story-tape"><article><small>IBRAHIM ABDUSSALAM</small><p>“The modules are informative, practical, and well-organized. I am learning new digital skills.”</p></article><article><small>HAKEEM ANIMASHAUN</small><p>“This is so interesting and educative to me. I am very happy to be part of this program.”</p></article><article><small>SHAMSUDDINI BABANGIDA</small><p>“The training is easy to understand, practical, and helpful. I recommend it to anyone.”</p></article><article><small>AMINA GARBA</small><p>“The quizzes helped me understand better. Thank you for this opportunity.”</p></article><article><small>ADAMU HASSAN</small><p>“I am excited to learn more about AI and develop practical digital skills.”</p></article><article><small>AHMAD ABDULLAHI</small><p>“Excellent and I am really enjoying this program.”</p></article><article><small>AHMAD AREMU</small><p>“My experience with DTA is exciting and I look forward to completing the course.”</p></article><article><small>TAWAKALITU ABBAS</small><p>“I am loving my course. The lectures are well explained.”</p></article><article><small>ISMAIL ABDULLAHI</small><p>“The platform is helping me learn new digital skills, especially AI and Machine Learning.”</p></article><article><small>JOVITA CHIGBO</small><p>“The training is practical, easy to understand, and relevant to today’s workplace.”</p></article></div></marquee></section>
+
+		<section class="cta" id="apply"><div><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 240'%3E%3Cdefs%3E%3ClinearGradient id='g1' x1='0' x2='1'%3E%3Cstop stop-color='%2326a85f'/%3E%3Cstop offset='1' stop-color='%230d5f3d'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='400' height='240' rx='24' fill='url(%23g1)'/%3E%3Crect x='36' y='40' width='328' height='160' rx='20' fill='%23ffffff' fill-opacity='.16'/%3E%3Ccircle cx='112' cy='104' r='30' fill='%23ffffff' fill-opacity='.68'/%3E%3Crect x='162' y='80' width='120' height='18' rx='9' fill='%23ffffff' fill-opacity='.8'/%3E%3Crect x='162' y='110' width='140' height='12' rx='6' fill='%23ffffff' fill-opacity='.58'/%3E%3Crect x='162' y='132' width='96' height='12' rx='6' fill='%23ffffff' fill-opacity='.58'/%3E%3C/svg%3E" alt="Register for the Digital Training Academy"><h2>Join Other Learners Growing Their Careers</h2><p>Be part of 32,000 Nigerians gaining free, high-demand skills through the government funded Digital Training Academy.</p><a class="button light" href="#top">Register now</a></div></section>
+	</main>
+
+	<footer id="footer"><div class="footer-brand"><strong>Digital Training<br>Academy</strong><p>Unlock smarter tools for teaching, learning, and school management.</p><div class="social-row"><a href="#footer" aria-label="Facebook">f</a><a href="#footer" aria-label="X">x</a><a href="#footer" aria-label="Instagram">◎</a></div></div><div><b>Company</b><a href="#impact">About us</a><a href="#faq">FAQ</a><a href="#footer">Contact</a></div><div><b>Social</b><a href="#footer">Twitter</a><a href="#footer">LinkedIn</a><a href="#footer">Facebook</a></div><div><b>Legal</b><a href="#footer">Terms</a><a href="#footer">Privacy</a></div><small class="copyright">© 2026 Digital Training Academy. All rights reserved. <span>Developed for digital learning.</span></small></footer>
+</body>
+</html>
